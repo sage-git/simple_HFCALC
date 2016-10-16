@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+szabo_test
+
+*.log
+.sconsign.dblite
